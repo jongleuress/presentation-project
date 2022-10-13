@@ -1,0 +1,138 @@
+body {
+    font-family: 'Commissioner', sans-serif;
+    font-weight: 200;
+    background: #F5EFE6;
+    color: #483838;
+}
+
+body h3 {
+    font-size: 38px;
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+body h1 {
+    font-family: 'Ropa Sans', sans-serif;
+}
+
+footer {
+    color: #C7BEA2;
+    background: #665A48;
+}
+
+nav {
+    background: #425F57;
+}
+
+.navbar {
+    font-weight: 500;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 22px;
+}
+
+.header-main {
+    background: #0F3D3E;
+    color: #F1F1F1;
+}
+
+.lead {
+    font-weight: 400;
+}
+
+.header-img {
+    border-radius: 5px;
+}
+
+.grid-main {
+    margin-left: 9%;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.para-main-grid {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-right: 35px;
+}
+
+.grid-main img {
+    box-shadow: 10px 10px 15px -8px rgba(98,110,112,1);
+}
+
+.grid-main img:hover {
+    opacity: 0.7;
+}
+
+.family-slider {
+    font-size: 18px;
+    font-weight: 400;
+    background: #D7C0AE;
+    padding: 15px;
+}
+
+.family-slider h3 {
+    font-weight: 600;
+}
+
+.bottom-feature {
+    background: blueviolet;
+}
+
+.btn-primary {
+    background: #C8DBBE;
+    color: #0F3D3E;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #3C2317;
+    color: #F1F1F1;
+    border: 1px #F1F1F1 solid;
+}
+
+.btn-outline-secondary {
+    background: transparent;
+    color: #F1F1F1;
+    border: 1px #F1F1F1 solid;
+}
+
+.btn-outline-secondary:hover {
+    background: #F1F1F1;
+    color: #3C2317;
+    border: none;
+}
+
+.btn-slider {
+    background: #749F82;
+    border: 1px #0F3D3E solid;
+}
+
+.impact-slider {
+    font-size: 18px;
+    font-weight: 400;
+    background: #425F57;
+    color: #F1F1F1;
+    padding: 15px;
+}
+
+.impact-slider h3 {
+    font-weight: 600;
+}
+
+.text-reset {
+    text-decoration: none;
+}
+
+.email-contact a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.btn-impact {
+    background: #3C2317;
+    color: #F1F1F1;
+}
+
+.btn-impact:hover {
+    background: #425F57;
+    color: #F1F1F1;
+}
