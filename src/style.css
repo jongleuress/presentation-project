@@ -23,6 +23,12 @@ nav {
     background: #425F57;
 }
 
+h5 {
+    font-family: 'Ropa Sans', sans-serif;
+    font-weight: 700;
+    margin: 5px;
+}
+
 .navbar {
     font-weight: 500;
     font-family: 'Ropa Sans', sans-serif;
@@ -81,6 +87,7 @@ nav {
     background: #C8DBBE;
     color: #0F3D3E;
     border: none;
+    font-weight: 600;
 }
 
 .btn-primary:hover {
@@ -135,4 +142,45 @@ nav {
 .btn-impact:hover {
     background: #425F57;
     color: #F1F1F1;
+}
+
+.card {
+    background: #EEE3CB;
+    color: #180e09;
+    padding: 15px;
+    box-shadow: 10px 10px 23px -4px rgba(161,123,100,1);
+}
+
+.card-body {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.card-img-top {
+    border: 1px #F1F1F1 solid;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.btn-impact-cards {
+    border: 1px #0F3D3E solid;
+}
+
+.impact-section {
+    background: #F5EFE6;
+    color: #180e09;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.vr {
+    border-right: 1px #665A48 solid;
+}
+
+.impact-bottom-img {
+    border-radius: 3px;
+    box-shadow: 4px 4px 12px -5px rgb(35, 30, 27);
 }
