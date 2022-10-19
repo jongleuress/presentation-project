@@ -29,6 +29,16 @@ h5 {
     margin: 5px;
 }
 
+.process {
+    background: #C7BEA2;
+    color: #3C2317;
+}
+
+.email-contact-process a {
+    color: #3C2317;
+    text-decoration: none;
+}
+
 .navbar {
     font-weight: 500;
     font-family: 'Ropa Sans', sans-serif;
@@ -49,7 +59,6 @@ h5 {
 }
 
 .grid-main {
-    margin-left: 9%;
     font-weight: 400;
     font-size: 18px;
 }
@@ -137,6 +146,7 @@ h5 {
 .btn-impact {
     background: #3C2317;
     color: #F1F1F1;
+    margin-bottom: 10px;
 }
 
 .btn-impact:hover {
@@ -174,13 +184,83 @@ h5 {
     color: #180e09;
     font-size: 18px;
     font-weight: 300;
-}
-
-.vr {
-    border-right: 1px #665A48 solid;
+    padding-left: 130px;
+    padding-right: 130px;
 }
 
 .impact-bottom-img {
     border-radius: 3px;
     box-shadow: 4px 4px 12px -5px rgb(35, 30, 27);
+}
+
+.impact-box {
+    border-left: 2px #749F82 dashed;
+}
+
+.people-video {
+    background: #C8DBBE;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.people-slider {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.carousel-caption {
+    background: #425F57;
+}
+
+.process-top {
+    font-size: 18px;
+    font-weight: 400;
+    background: #EEE3CB;
+    padding: 15px;
+}
+
+.process-top h3 {
+    font-weight: 600;
+}
+
+.process-slider {
+    font-size: 18px;
+    font-weight: 400;
+    background: #5C7658;
+    color: #F1F1F1;
+    padding: 15px;
+}
+
+.process-slider h3 {
+    font-weight: 600;
+}
+
+.process-section {
+    font-size: 18px;
+    font-weight: 400;
+    background: #EEE3CB;
+    padding: 15px;
+
+}
+
+.process-section h3 {
+    font-weight: 600;
+}
+
+.process-bottom {
+    font-size: 18px;
+    font-weight: 400;
+    background: #553939;
+    color: #F1F1F1;
+    padding: 15px;
+}
+
+.process-bottom h3 {
+    font-weight: 600;
+}
+
+.btn-process {
+    background: #0F3D3E;
+    color: #F1F1F1;
+    border: 1px #F1F1F1 solid;
 }
