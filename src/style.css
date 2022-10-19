@@ -264,3 +264,13 @@ h5 {
     color: #F1F1F1;
     border: 1px #F1F1F1 solid;
 }
+
+.header-main a {
+    text-decoration: none;
+    color: #0F3D3E;
+}
+
+.header-main a:hover {
+    background: #3C2317;
+    color: #F1F1F1;
+}
